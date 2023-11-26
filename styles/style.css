@@ -306,6 +306,7 @@ body {
   width: 100%;
   gap: 25px;
 }
+
 .about__column {
   align-self: flex-start;
 }
@@ -321,10 +322,12 @@ body {
   margin-left: 95px;
   margin-right: 95px;
 }
+
 .about__logo-image {
   width: 148px;
   height: 114px;
 }
+
 .about__title {
   color: #000;
   font-size: 40px;
@@ -335,6 +338,7 @@ body {
   padding-bottom: 100px;
   padding-top: 100px;
 }
+
 .about__text {
   color: #000;
   font-size: 20px;
@@ -359,14 +363,15 @@ body {
   height: auto;
   width: 100%;
 }
+
 .footer__menu {
   text-align: center;
-
 }
+
 .footer__menu-list {
   list-style: none;
-
 }
+
 .footer__menu-list-item {
   text-underline-offset: 5px;
   font-size: 18px;
@@ -383,10 +388,6 @@ body {
   height: 48px;
   gap: 40px;
   margin: 0;
-  list-style: none;
 }
 
-
-.footer__social-icon {
-  margin: o auto;
-}
+/* footer end */
